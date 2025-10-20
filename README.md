@@ -3,14 +3,14 @@
 
 ---
 
-**1. [Comentarios interesantes / Problemas](#1-comentarios-interesantes--problemas)**  
-**2. [Diseño de la Aplicación](#2-diseño-de-la-aplicación)**  
-**3. [Ejecución de la Aplicación](#3-ejecución-de-la-aplicación)**  
-**4. [Código XML](#4-código-xml)**
+**1. [COMENTARIOS INTERESANTES / PROBLEMAS](#1-comentarios-interesantes--problemas)**  
+**2. [DISEÑO DE LA APLICACIÓN](#2-diseño-de-la-aplicación)**  
+**3. [EJECUCIÓNDE LA APLICACIÓN](#3-ejecución-de-la-aplicación)**  
+**4. [CÓDIGO XML](#4-código-xml)**
 
 ---
 
-## 1. Comentarios interesantes / Problemas
+## 1. COMENTARIOS INTERESANTES / PROBLEMAS
 
 LOS PROBLEMAS QUE HE TENIDO HAN SIDO:
 
@@ -251,3 +251,4 @@ LOS PROBLEMAS QUE HE TENIDO HAN SIDO:
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 https://github.com/Claudia0608/Documentaci-nCalculadora-CLaudia
+
